@@ -15,8 +15,8 @@ st.title("YouTube：再生数 × いいね数")
 # =====================
 # API 初期化
 # =====================
-with open("youtube_api_key.json", "r", encoding="utf-8") as f:
-    config = json.load(f)
+# with open("youtube_api_key.json", "r", encoding="utf-8") as f:
+#     config = json.load(f)
 
 # api_key = config["api_key"]
 
